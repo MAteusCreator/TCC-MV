@@ -1,6 +1,10 @@
+body{
+    background-color: rgb(128, 128, 128)
+}
 .titulo{
     color: black;
     font-size: 36px;
     font-family: Arial, sans-serif;
     text-align: center;
+    margin-top: 450px;
 }
