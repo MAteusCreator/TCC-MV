@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(128, 128, 128);;
+}
+.cadastro-container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 5px;
+   
+}
